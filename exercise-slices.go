@@ -1,4 +1,4 @@
-#Question: https://tour.golang.org/moretypes/18
+//Question: https://tour.golang.org/moretypes/18
 
 package main
 
